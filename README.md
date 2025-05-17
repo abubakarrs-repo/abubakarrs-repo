@@ -2,7 +2,7 @@
 
 **`Building Smarter Robots & Robust Control Systems for Industry | Aerial & Ground Autonomous Robotics | Serial & Cartesian Robot Design | Altitude Control | Mechanism & Power Transmission R&D  | PCB Design & 3D Modelling | Coding`**
 ### Introduction
-Hi, I am Abu Bakarr. I am a Mechanical Engineering student with a strong passion for robotics, control systems, and sustainable product development. I desire to create engineering solutions that advance technology and contribute meaningfully to environmental and societal well-being.<br>
+Hi, I am Abu Bakarr. I am a Mechanical Engineering student passionate about robotics, control systems, and sustainable product development. I desire to create engineering solutions that advance technology and contribute meaningfully to environmental and societal well-being.<br>
 
 ### Programming Languages 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
@@ -25,7 +25,7 @@ Hi, I am Abu Bakarr. I am a Mechanical Engineering student with a strong passion
 ### My stats 
 <div align="center">
 <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abubakarrs-repo&show_icons=true&theme=transparent"/>
-<!-- <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarrs-repo&layout=compact&&langs_count=8"/>
-</div> -->
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarrs-repo&layout=compact&&langs_count=8"/>
+</div> 
 
 
