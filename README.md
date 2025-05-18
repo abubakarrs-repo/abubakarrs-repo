@@ -15,7 +15,7 @@ Greetings! I am Abu Bakarr. I am a Mechanical Engineering student passionate abo
 ### Development Tools
 <img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353423/arduino.svg"/>
 
-<img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="https://www.google.com/search?q=GNU+logo&oq=gnu+&gs_lcrp=EgZjaHJvbWUqDggBEEUYJxg7GIAEGIoFMgYIABBFGDkyDggBEEUYJxg7GIAEGIoFMggIAhBFGCcYOzIGCAMQRRg7MgcIBBAAGIAEMgcIBRAuGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAEMgcIChAAGIAEMgcICxAAGIAEMgcIDBAAGIAEMgcIDRAAGIAEMgcIDhAAGIAE0gEIMzA2NGowajeoAhSwAgHxBbYzSTwFSzso8QW2M0k8BUs7KA&client=ms-android-samsung-ss&sourceid=chrome-mobile&ie=UTF-8#imgrc=NWflESC28JIBUM&imgdii=mZUle9cojJ7mWM"/>
+<!--<img align="left" alt="GNU" width="40px" style="padding-right:10px;" src="https://www.google.com/search?q=GNU+logo&oq=gnu+&gs_lcrp=EgZjaHJvbWUqDggBEEUYJxg7GIAEGIoFMgYIABBFGDkyDggBEEUYJxg7GIAEGIoFMggIAhBFGCcYOzIGCAMQRRg7MgcIBBAAGIAEMgcIBRAuGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAEMgcIChAAGIAEMgcICxAAGIAEMgcIDBAAGIAEMgcIDRAAGIAEMgcIDhAAGIAE0gEIMzA2NGowajeoAhSwAgHxBbYzSTwFSzso8QW2M0k8BUs7KA&client=ms-android-samsung-ss&sourceid=chrome-mobile&ie=UTF-8#imgrc=NWflESC28JIBUM&imgdii=mZUle9cojJ7mWM"/>-->
 
 <img align="left" alt="ROS" width="40px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Robot-Operating-System-%28ROS%29.svg"/>
 <img align="left" alt="Gazebo" width="40px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Gazebo.svg"/>
