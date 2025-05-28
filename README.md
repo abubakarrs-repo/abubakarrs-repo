@@ -1,6 +1,6 @@
 
 
-**`Building Smarter Robots & Robust Control Systems for Industry | Aerial & Ground Autonomous Robotics | Serial & Cartesian Robot Design | Altitude Control | Mechanism & Power Transmission R&D  | PCB Design & 3D Modelling | Coding`**
+**`Building Smarter Robots & Robust Control Systems for Industrial application | Aerial & Ground Autonomous Robotics | Serial & Cartesian Robot Design | Altitude Control | Mechanism & Power Transmission R&D  | PCB Design & 3D Modelling | Coding`**
 ### Introduction
 Greetings! I am Abu Bakarr. I am a Mechanical Engineering student passionate about robotics, control systems, and sustainable product development. I desire to create engineering solutions that advance technology and contribute meaningfully to environmental and societal well-being.<br>
 
