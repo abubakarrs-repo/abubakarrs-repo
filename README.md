@@ -2,7 +2,7 @@
 
 **`Building Smarter Robots & Robust Control Systems for Industrial application | Aerial & Ground Autonomous Robotics | Serial & Cartesian Robot Design | Altitude Control | Mechanism & Power Transmission R&D  | PCB Design & 3D Modelling | Coding`**
 ### Introduction
-Greetings! I am Abu Bakarr. I am a Mechanical Engineering student passionate about robotics, control systems, and sustainable product development. I desire to create engineering solutions that advance technology and contribute meaningfully to environmental and societal well-being.<br>
+Mechatronics research enthusiast focused on developing intelligent robotic systems at the intersection of Robotics, Control Systems, and Artificial Intelligence, with the objective of enabling robotic autonomy and cognition in complex research, industrial, and real-world environments. Experienced in computer-aided design (CAD), Design for Additive Manufacturing (DfAM), mixed-signal multilayer PCB design, and embedded systems development, with strong programming proficiency in C, C++, and Python. Proven ability to translate research concepts into deployable hardware–software systems, validated through hands-on prototyping and experimental testing..<br>
 
 ### Programming Languages 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
